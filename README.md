@@ -16,7 +16,7 @@
   <p style="margin: 0 0 16px;">
     Estudante de Ciência da Computação na Universidade Federal do Maranhão.
     Me aperfeiçoando em back-end com objetivo de me tornar fullstack.
-    Atualmente estagiando como suporte técnico em uma defensoria pública do estado.
+    Atualmente estagiando como desenvolvedor na defensoria pública do estado.
   </p>
 
   <img src="./src/study.gif" alt="Study GIF" height="190px" style="margin-bottom: 16px;">
